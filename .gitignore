@@ -1,0 +1,8 @@
+target/
+Cargo.lock
+
+.idea/
+
+history.log
+
+index.json
